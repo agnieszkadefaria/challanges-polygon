@@ -2,7 +2,7 @@
 
 My solution for https://js.checkio.org/en/mission/inside-block/ challenge
 
-The challenge (taken from https://js.checkio.org/en/mission/inside-block/):
+This challenge comes from https://js.checkio.org/en/mission/inside-block/:
 Determine whether the given point lies inside the polygon.
 
 For example, on the left image you see a polygon which is described by ((2,1),(1,5),(5,7),(7,7),(7,2)) and the point at (2,7). The result is False.
