@@ -1,4 +1,4 @@
-# challanges-polygon
+# challenges-polygon
 
 My solution for https://js.checkio.org/en/mission/inside-block/ challenge
 
